@@ -724,6 +724,7 @@ vendor/lib64/vendor.google.wireless_charger@1.2.so
 vendor/lib64/vendor.google.wireless_charger@1.3.so
 vendor/lib64/vendor.qti.googleext.imsext@1.0.so
 vendor/lib64/vendor.qti.hardware.cvp@1.0.so
+vendor/lib64/vendor.qti.hardware.data.iwlan@1.0.so
 vendor/lib64/vendor.qti.hardware.data.latency@1.0.so
 vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so
 vendor/lib64/vendor.qti.hardware.qdutils_disp@1.0.so
